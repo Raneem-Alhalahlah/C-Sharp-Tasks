@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\c #-Task2\c #-Task2\bin\Debug\c #-Task2.exe.config
+C:\Users\Orange\Desktop\c #-Task2\c #-Task2\bin\Debug\c #-Task2.exe
+C:\Users\Orange\Desktop\c #-Task2\c #-Task2\bin\Debug\c #-Task2.pdb
+C:\Users\Orange\Desktop\c #-Task2\c #-Task2\obj\Debug\c #-Task2.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\c #-Task2\c #-Task2\obj\Debug\c #-Task2.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\c #-Task2\c #-Task2\obj\Debug\c #-Task2.exe
+C:\Users\Orange\Desktop\c #-Task2\c #-Task2\obj\Debug\c #-Task2.pdb
