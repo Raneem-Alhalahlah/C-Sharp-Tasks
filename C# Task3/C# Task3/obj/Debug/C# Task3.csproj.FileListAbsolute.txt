@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\C# Task3\C# Task3\bin\Debug\C# Task3.exe.config
+C:\Users\Orange\Desktop\C# Task3\C# Task3\bin\Debug\C# Task3.exe
+C:\Users\Orange\Desktop\C# Task3\C# Task3\bin\Debug\C# Task3.pdb
+C:\Users\Orange\Desktop\C# Task3\C# Task3\obj\Debug\C# Task3.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C# Task3\C# Task3\obj\Debug\C# Task3.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C# Task3\C# Task3\obj\Debug\C# Task3.exe
+C:\Users\Orange\Desktop\C# Task3\C# Task3\obj\Debug\C# Task3.pdb
