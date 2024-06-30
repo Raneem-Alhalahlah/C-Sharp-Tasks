@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\C#-Task4\C#-Task4\obj\Debug\C#-Task4.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C#-Task4\C#-Task4\obj\Debug\C#-Task4.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C#-Task4\C#-Task4\bin\Debug\C#-Task4.exe.config
+C:\Users\Orange\Desktop\C#-Task4\C#-Task4\bin\Debug\C#-Task4.exe
+C:\Users\Orange\Desktop\C#-Task4\C#-Task4\bin\Debug\C#-Task4.pdb
+C:\Users\Orange\Desktop\C#-Task4\C#-Task4\obj\Debug\C#-Task4.exe
+C:\Users\Orange\Desktop\C#-Task4\C#-Task4\obj\Debug\C#-Task4.pdb
