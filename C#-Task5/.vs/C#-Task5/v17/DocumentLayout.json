@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\C#-Tasks\\C-Sharp-Tasks\\C#-Task5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D09411D7-A421-4921-9C9D-0C786B62259A}|C#-Task5\\C#-Task5.csproj|c:\\users\\orange\\desktop\\c#-tasks\\c-sharp-tasks\\c#-task5\\c#-task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09411D7-A421-4921-9C9D-0C786B62259A}|C#-Task5\\C#-Task5.csproj|solutionrelative:c#-task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#-Tasks\\C-Sharp-Tasks\\C#-Task5\\C#-Task5\\Program.cs",
+              "RelativeDocumentMoniker": "C#-Task5\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#-Tasks\\C-Sharp-Tasks\\C#-Task5\\C#-Task5\\Program.cs",
+              "RelativeToolTip": "C#-Task5\\Program.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAuwCwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:04:27.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

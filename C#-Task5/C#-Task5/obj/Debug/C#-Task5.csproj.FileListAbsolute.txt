@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\C#-Task5\C#-Task5\bin\Debug\C#-Task5.exe.config
+C:\Users\Orange\Desktop\C#-Task5\C#-Task5\bin\Debug\C#-Task5.exe
+C:\Users\Orange\Desktop\C#-Task5\C#-Task5\bin\Debug\C#-Task5.pdb
+C:\Users\Orange\Desktop\C#-Task5\C#-Task5\obj\Debug\C#-Task5.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C#-Task5\C#-Task5\obj\Debug\C#-Task5.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C#-Task5\C#-Task5\obj\Debug\C#-Task5.exe
+C:\Users\Orange\Desktop\C#-Task5\C#-Task5\obj\Debug\C#-Task5.pdb
