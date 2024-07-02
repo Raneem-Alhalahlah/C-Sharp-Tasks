@@ -24,7 +24,9 @@ namespace C__Task5
 
             //Q2 use constructor 
             Car fordCar = new Car("Ford", 2022, "Sedan", 25000m, "Fusion", "XYZ789", "Blue");
-            fordCar.DisplayInfo();
+          
+            Console.WriteLine("Full Car Information:");
+            fordCar.DisplayInfo(); 
 
             // Start the engine // For Q3
             fordCar.StartEngine();
@@ -32,11 +34,10 @@ namespace C__Task5
             // Stop the engine // For Q3
             fordCar.StopEngine();
 
-            //For Q4
-            string carInfo = fordCar.GetFullInfo();
-            Console.WriteLine("\nFull Car Information:");
-            Console.WriteLine(carInfo);
-
+           
+            //For Q6
+            BMW bMW = new BMW("BMW", 2022, "Sedan", 30000m, "bmw", "XYZ789", "Black");
+            Console.WriteLine(bMW.Year);
         }
 
     }
@@ -53,7 +54,7 @@ namespace C__Task5
         private string model;
         private string palletNo;
         private string color;
-        private bool isEngineRunning;//for Q3
+       // private bool isEngineRunning;//for Q3
 
         // Properties
         public string Make
@@ -120,7 +121,7 @@ namespace C__Task5
             Model = model;
             PalletNo = palletNo;
             Color = color;
-            isEngineRunning = false;//for Q3
+            //isEngineRunning = false;//for Q3
         }
 
 
@@ -135,44 +136,35 @@ namespace C__Task5
             Console.WriteLine($"Model: {Model}");
             Console.WriteLine($"Pallet No: {PalletNo}");
             Console.WriteLine($"Color: {Color}");
-            Console.WriteLine($"Engine Running: {isEngineRunning}");//for Q3
+            //Console.WriteLine($"Engine Running: {isEngineRunning}");//for Q3
         }
-        // Method to start the engine //For Q3
+        // Method to start //For Q3
         public void StartEngine()
         {
-            if (!isEngineRunning)
-            {
-                isEngineRunning = true;
-                Console.WriteLine("Engine started.");
-            }
-            else
-            {
-                Console.WriteLine("Engine is already running.");
-            }
+            Console.WriteLine("the car is starting");
+
         }
-        // Method to stop the engine//For Q3
+        // Method to stop //For Q3
         public void StopEngine()
         {
-            if (isEngineRunning)
-            {
-                isEngineRunning = false;
-                Console.WriteLine("Engine stopped.");
-            }
-            else
-            {
-                Console.WriteLine("Engine is already stopped.");
-            }
+            Console.WriteLine("the car is stopping");
         }
 
-        // Method to get full information about the car // For Q4
-        public string GetFullInfo()
+
+       
+    }
+
+    //Q5
+    class BMW : Car
+    {
+
+
+        public BMW(string make, int year, string type, decimal price, string model, string palletNo, string color) : base(make, year, type, price, model, palletNo, color)
         {
-            return $"Make: {Make}\nYear: {Year}\nType: {Type}\nPrice: {Price}\nModel: {Model}\nPallet No: {PalletNo}\nColor: {Color}";
+
         }
     }
 
-
-    
 
 
 
